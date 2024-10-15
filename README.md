@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinav-Prakashh
 - 👀 I’m interested in web development, software engineering, game development, etc.
-- 🌱 I’m currently learning c and html
-- 💞️ I’m looking to collaborate on many upcoming projects
+- 🌱 I’m currently learning c , html , python.
+- 💞️ I’m looking to collaborate on many upcoming projects and make many myself
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
