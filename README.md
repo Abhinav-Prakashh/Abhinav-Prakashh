@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many upcoming projects and make many myself
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 Abhinav-Prakashh/Abhinav-Prakashh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
