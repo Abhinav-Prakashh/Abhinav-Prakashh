@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-prakash-92a84432b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-prakash-92a84432b/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/abhinavprakash16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abhinavprakash16" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhinav-prakashh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-prakash-92a84432b/" height="30" width="40" /></a>
+<a href="https://www.behance.net/abhinavprakash16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/abhinavprakash16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
