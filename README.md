@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Postgres, MongoDB, PyTorch, and Machine Learning.**
 
-- 📫 How to reach me **abhinavprakash@gmail.com**
+- 📫 How to reach me **abhinavprakash355@gmail.com**
 
 - ⚡ Fun fact **I hate Debugging but when it is over, It's Awesome!**
 
