@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Prakash</h1>
 <h3 align="center">An In-Progress Coder trying to put new stuff + always learning</h3>
 
-- 🌱 I'm currently learning **SQL, MongoDB, Express.js, ReactJS & APIs**
+- 🌱 I'm currently learning **Postgres, MongoDB, PyTorch, and Machine Learning.**
 
 - 📫 How to reach me **abhinavprakash@gmail.com**
 
